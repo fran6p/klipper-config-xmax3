@@ -20,4 +20,4 @@
 
 KLIPPER_CONFIG_DIR="/home/mks/printer_data/config"
 
-$KLIPPER_CONFIG_DIR/scripts//move_files.sh "$KLIPPER_CONFIG_DIR"/ "$HOME/klipper_config/backups/" "$KLIPPER_CONFIG_DIR/printer-202*\.cfg"
+$KLIPPER_CONFIG_DIR/scripts//move_files.sh "$KLIPPER_CONFIG_DIR"/ "$KLIPPER_CONFIG_DIR/backups/" "$KLIPPER_CONFIG_DIR/printer-202*\.cfg"
