@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# IP address of the Klipperscreen
+# Klipperscreen IP address
 IP_KS="192.168.1.127"
 
 # Username and password
